@@ -1,1 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>for the best man in the world</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <h1>
+        Hello!   
+    </h1>
+     <p style="color:gold;">
+      i am creating something for myself </p>
+      <hr>
+     <nav aria-labelledby="primary navigation"> primary-navigation
+     <ul>
+    <li> <a href="#about"> about me</a> </li>
+    <li> <a href="#retro"> what my suggestion to you</a></li>
+    <li><a href="#balance"> whats my opinion for you</a></li>
+    <li><a href="#timeline"> mera bacccha</a></li>
+    </ul> 
+    </nav>
+    <hr> 
+<fieldset id="about" style="background-color:#156064; width:auto; color:#FFC2B4;">
+    <legend style="color: white; font-size: larger;"> about me </legend>
+    <section>
+    <h2 style="font-size: larger;"> <em> dekh yaar tere baare me main jitna bolu utna kam hai par haa tu sachme ek bohot shi ladka hai <br>
+    aur tu bohot familiar hai aur tu tere family ko primary pe rakhta hai  </em> </h2>
+    <p class="small"> tune akele bhi kitni bakchodi ki hai har kisi ke maje lena kisi <br>
+    kisi bhi cheez me backchodi find karlena and all <br> phir uske baad kuch uncertain hua aur 
+    tu thode dino  ke liye teri life se thodi bekaar ho gyi thi <br> but phir bhagwaan ji ki kripa se sb wapas badhiya ho gya
+     <br> aur phir toh mera khudse itna badhiya bond ho gya the level maturity i get i cant say you but  <br>
+      it is good to have itna saara maturity at the age of  19 <br> <strong style="color: rgb(0, 0, 0);"><em>what do you think...</em></strong></p>
+    </section>
+    </fieldset>
 
+    <fieldset id="retro" style="background-color:#156064; width:auto; color:#FFC2B4;"> 
+        <legend>  what my suggestion for you </legend>
+    <section>
+     <h2 style="font-size: larger;font-style: italic;"> see sometimes what happens lots of ups and downs will came into your life
+         but remember you have to stand <br>hardly on that situations in your bad or your good also  </h2>
+    <p class="hy">yrr life me bohot saari cheeze aapke according nhi challti but aap usme <br>
+        kuch bhi nhi kar skte kyuki its all god plan understood <br> so be like a dead fish go with the flow and never take a tention  <br>
+        of anythingh because jaako raakhe saiaan mar sake na koi <br> dekho yrr main bhi meri life 
+        me na bohot tention leta tha par <br>ab nhi leta bss jo dil me aata hai karta hu kyuki tention 
+        lene se main hi damage ho raha tha<br> <strong style="color: rgb(0, 0, 0);">  so be carefull from your close once <em> </em></strong> </p>
+    </section>
+    </fieldset>
+    <fieldset id="balance" style="background-color:#156064; width:auto; color:#FFC2B4;">
+        <legend> whats my opinion for you </legend>
+     <section>
+<h2 style="font-size: larger;"> how are you guys i am return a i want to tell that i am going to tell <br>everone that i can do anythinng
+     understood so be carefull from the people youn</h2>
+<p class="try"> so yrr abhi main css  sikh raha hu main jab yeh sikhta hu toh bohot boring laggta hai suruawat me <br> 
+    par phir na mujhe maja aane lagta hai aur sachme bhai agar main sikh skta hu na toh koi bhi sikh skta smje bidu <br> 
+    <strong style="color:rgb(0, 0, 0)"> <em> so be carefull from your close once because there are very high chances of getting cheated </em> </strong> </p>
+</section>
+</fieldset>
+<fieldset id="timeline" style="background-color: #156064; color: #FFC2B4; width:auto;"> 
+<legend> mera baccha </legend>
+<h2 style="font-size: larger;">yrr mujhe toh bohot maja aaraha hai yeh karte hue </h2>
+<p class="fry"> isiliye main daily coding karta hu aur main tumhe bhi yahi suggest  <br> 
+karunga ki tum bhi coding karna start karo bhai <br> aur coding nhi toh kuch bhi start karo par 
+karo bhai <br> kyuki world is no loger gives you time so take the advantage of 
+<br> your privilage take the advantage of the opportunities you are getting <br>
+understood <br> <strong style="color: black;"> <em>so what are waiting and thinking for go brother go  </em></strong></p>
+<img class="dead" src="img/download.webp" alt="200" title="success">
+</fieldset>
+<br><br><br><br><br><br>
+</body> 
+</html>
